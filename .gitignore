@@ -7,4 +7,5 @@ ARPAC_2021-20222_no_elab/*
 *.zip
 *.ipynb
 *.png
-*.txt
+res*.txt
+rep*.txt
