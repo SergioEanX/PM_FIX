@@ -1,0 +1,10 @@
+.lh/*
+.ipynb_checkpoints/*
+.vscode/*
+*.csv
+ARPAC_ALL/*
+ARPAC_2021-20222_no_elab/*
+*.zip
+*.ipynb
+*.png
+*.txt
