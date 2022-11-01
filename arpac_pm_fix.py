@@ -616,11 +616,3 @@ if __name__ == "__main__":
     # PM2.5     4.70
     # PM10     10.40
     # Name: 2022-01-11 00:00:00+01:00, dtype: float32
-
-
-# https://datatable.readthedocs.io/en/latest/manual/transform_data.html?highlight=datetime
-# https://samukweku.github.io/data-wrangling-blog/python/pydatatable/pandas/2020/11/05/Read-Multiple-Csv-Files-into-one-Table-in-Python.html
-# https://datumorphism.leima.is/til/programming/pandas/pandas-parallel-multiprocessing/#:~:text=Pandas%20with%20MultiProcessing%201%20Define%20number%20of%20processes%2C,one%20process%3B%204%20Merge%20processed%20dataframes%20into%20one.
-# https://www.kdnuggets.com/2019/11/speed-up-pandas-4x.html
-# https://realpython.com/fast-flexible-pandas/#pandas-apply
-# https://stackoverflow.com/questions/287871/how-do-i-print-colored-text-to-the-terminal
